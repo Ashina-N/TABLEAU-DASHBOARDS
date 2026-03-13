@@ -1,0 +1,2 @@
+An HR analytics dashboard in Tableau helps organizations analyze important HR data such as employee count, attrition rate, department distribution, salary trends, age group, and job roles. The data is first collected from HR databases or spreadsheets and then imported into Tableau
+Using Tableau’s visualization tools, different charts such as bar charts, pie charts, and line graphs are created to show HR insights. These dashboards help HR managers easily understand employee patterns and make better decisions.
